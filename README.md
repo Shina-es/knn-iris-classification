@@ -1,3 +1,4 @@
+
 ## K-Nearest Neighbors (KNN) – Iris Classification
 
 ## Description
@@ -46,4 +47,5 @@ python main.py
 ##  Notes
 
 This project demonstrates instance-based learning and classification using distance measures.
+<img width="1312" height="749" alt="2026-05-01 (2)" src="https://github.com/user-attachments/assets/24fc701b-1de5-4355-a801-cf5265d2ce10" />
 
